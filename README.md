@@ -1,4 +1,4 @@
-Most of my work these days is on Gitlab. <img src = 'https://github.com/yeezy/yeezy/blob/main/icons/gitlab.svg' height='30' width='40'/> 
+Most of my work these days is on Gitlab.
 
 
 ## :computer: Languages I Enjoy
